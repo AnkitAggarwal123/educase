@@ -1,5 +1,5 @@
 import "./style.css"
-import logo from "![Ellipse 114](https://github.com/AnkitAggarwal123/educase/assets/126346798/2673bfa5-4739-401c-a43f-4183d1f521f5)"
+import logo from "https://github.com/AnkitAggarwal123/educase/assets/126346798/2673bfa5-4739-401c-a43f-4183d1f521f5"
 
 
 function Page4(){

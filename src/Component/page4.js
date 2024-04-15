@@ -7,7 +7,7 @@ function Page4(){
         <div class = "setting"><p class = "as">Account Settings</p></div>
         <div class="info">
             <div class="photo">
-                <img src= "https://github.com/AnkitAggarwal123/educase/assets/126346798/2673bfa5-4739-401c-a43f-4183d1f521f5" alt="image"/>
+                <img src= "https://github.com/AnkitAggarwal123/educase/assets/126346798/2673bfa5-4739-401c-a43f-4183d1f521f5" alt="ankit"/>
             </div>
             <div>
                 <h4 class = "marry">Marry Doe</h4>
